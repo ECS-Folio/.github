@@ -86,7 +86,7 @@ On a Solana Seeker, Folio talks to the phone's own wallet through Mobile Wallet 
 - **USDC on Solana** as the cash balance
 - **xStocks** tokenized stocks, priced across on-chain markets with **Jupiter** routing
 
-Folio is a **Clock In** hackathon entrant.
+Folio is entered in two hackathons: Solana Mobile's **Clock In** hackathon and the **Colosseum** hackathon.
 
 ## Milestones
 

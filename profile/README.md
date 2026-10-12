@@ -20,12 +20,18 @@
   <img alt="Solana dApp Store: coming soon" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-solana-dapp-store.svg" title="Coming soon">
   <a href="https://solanamobile.com"><img alt="Solana Seeker" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-solana-seeker.svg"></a>
   <a href="https://tryfolio.io"><img alt="Android" src="https://img.shields.io/badge/Android-204C3B?logo=android&amp;logoColor=F7F8F4"></a>
+</p>
+
+<p align="center">
+  <a href="https://tryfolio.io/chatgpt"><img alt="Use Folio in ChatGPT" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-chatgpt.svg"></a>
   <a href="https://solana.com"><img alt="Solana" src="https://img.shields.io/badge/Solana-204C3B?logo=solana&amp;logoColor=F7F8F4"></a>
-  <br>
+  <a href="https://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-204C3B?logo=kotlin&amp;logoColor=F7F8F4"></a>
+</p>
+
+<p align="center">
   <a href="https://docs.solanamobile.com"><img alt="Mobile Wallet Adapter" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-mobile-wallet-adapter.svg"></a>
   <a href="https://privy.io"><img alt="Privy" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-privy.svg"></a>
   <a href="https://www.circle.com/usdc"><img alt="USDC" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-usdc.svg"></a>
-  <a href="https://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-204C3B?logo=kotlin&amp;logoColor=F7F8F4"></a>
 </p>
 
 <!-- demo-video: a demo thumbnail linking to the video goes here once the video exists -->

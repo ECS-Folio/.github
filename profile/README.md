@@ -93,6 +93,7 @@ Folio is a **Clock In** hackathon entrant.
 
 | Repository | What it holds | Visibility |
 | --- | --- | --- |
+| [`stock-app`](https://github.com/ECS-Folio/stock-app) | Folio: the shipping app (Android, server, web, landing) | Private |
 | `folio` | Folio: Solana consumer brokerage for tokenized equities (rebuild, Oct 2026) | Private |
 | `folio-old` | Folio, Brokerage for the World: mobile-first consumer brokerage UI over tokenized equities on Solana | Private |
 | [`.github`](https://github.com/ECS-Folio/.github) | This organization profile | Public |

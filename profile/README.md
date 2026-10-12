@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tryfolio.io/chatgpt"><img alt="Use Folio in ChatGPT" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-chatgpt.svg"></a>
+  <a href="https://tryfolio.io/chatgpt"><img alt="ChatGPT" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-chatgpt.svg"></a>
   <a href="https://solana.com"><img alt="Solana" src="https://img.shields.io/badge/Solana-204C3B?logo=solana&amp;logoColor=F7F8F4"></a>
   <a href="https://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-204C3B?logo=kotlin&amp;logoColor=F7F8F4"></a>
 </p>

@@ -10,9 +10,9 @@
 
 <p align="center">
   <a href="https://tryfolio.io"><b>Try Folio</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://tryfolio.io"><b>Get Folio for Android</b></a> <sub>(Solana dApp Store listing coming soon)</sub>
-  &nbsp;·&nbsp;
+  <br>
+  <a href="https://tryfolio.io"><b>Get Folio for Android</b></a>
+  <br>
   <a href="https://x.com/try_folio"><b>Follow @try_folio</b></a>
 </p>
 

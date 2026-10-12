@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="Solana dApp Store: coming soon" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-solana-dapp-store.svg" title="Coming soon">
+  <img alt="dApp Store: coming soon" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-solana-dapp-store.svg" title="Coming soon">
   <a href="https://solanamobile.com"><img alt="Solana Seeker" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-solana-seeker.svg"></a>
   <a href="https://tryfolio.io"><img alt="Android" src="https://img.shields.io/badge/Android-204C3B?logo=android&amp;logoColor=F7F8F4"></a>
 </p>
@@ -29,9 +29,14 @@
 </p>
 
 <p align="center">
+  <a href="https://tryfolio.io/security/"><img alt="Deposit from Base" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-base.svg"></a>
+  <a href="https://tryfolio.io/security/"><img alt="Deposit from Arc" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-arc.svg"></a>
+  <a href="https://www.circle.com/usdc"><img alt="USDC" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-usdc.svg"></a>
+</p>
+
+<p align="center">
   <a href="https://docs.solanamobile.com"><img alt="Mobile Wallet Adapter" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-mobile-wallet-adapter.svg"></a>
   <a href="https://privy.io"><img alt="Privy" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-privy.svg"></a>
-  <a href="https://www.circle.com/usdc"><img alt="USDC" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-usdc.svg"></a>
 </p>
 
 <!-- demo-video: a demo thumbnail linking to the video goes here once the video exists -->

@@ -98,7 +98,9 @@ Folio is entered in two hackathons: Solana Mobile's **Clock In** hackathon and t
 | 2026-10-03 | Home screen widgets for a single stock and the portfolio (Android 0.2.22) |
 | 2026-10-05 | [tryfolio.io](https://tryfolio.io) blog opens with "Hello, world" |
 | 2026-10-07 | Fifteen real-money transactions across every transfer direction, receipts exact to the unit |
+| 2026-10-07 | Folio's research connector ships: ChatGPT reads your portfolio over MCP and saves a research report into the app, where it becomes a buy you can review and place |
 | 2026-10-12 | Android 0.2.56 tagged |
+| 2026-10-13 | Android 0.2.57 published: Season 0 standings, paid Folio names in SKR, share cards, referral links, and Paper on Seeker with the weekly vote |
 
 ## Repositories
 

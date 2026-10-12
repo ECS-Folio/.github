@@ -29,8 +29,8 @@
 </p>
 
 <p align="center">
-  <a href="https://tryfolio.io/security/"><img alt="Deposit from Base" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-base.svg"></a>
-  <a href="https://tryfolio.io/security/"><img alt="Deposit from Arc" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-arc.svg"></a>
+  <a href="https://tryfolio.io/security/"><img alt="Base" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-base.svg"></a>
+  <a href="https://tryfolio.io/security/"><img alt="Arc" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-arc.svg"></a>
   <a href="https://www.circle.com/usdc"><img alt="USDC" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-usdc.svg"></a>
 </p>
 

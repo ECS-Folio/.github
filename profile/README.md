@@ -101,6 +101,7 @@ Folio is entered in two hackathons: Solana Mobile's **Clock In** hackathon and t
 | 2026-10-07 | Folio's research connector ships: ChatGPT reads your portfolio over MCP and saves a research report into the app, where it becomes a buy you can review and place |
 | 2026-10-12 | Android 0.2.56 tagged |
 | 2026-10-13 | Android 0.2.57 published: Season 0 standings, paid Folio names in SKR, share cards, referral links, and Paper on Seeker with the weekly vote |
+| 2026-10-13 | Android 0.2.58 published: new bottom bar with the centre Folio button, the Folio page (portfolio donut, metrics and research cards), Stories, buy share cards, the Earn page, and the unified Folio design system |
 
 ## Repositories
 

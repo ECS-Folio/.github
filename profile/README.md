@@ -11,13 +11,13 @@
 <p align="center">
   <a href="https://tryfolio.io"><b>Try Folio</b></a>
   &nbsp;·&nbsp;
-  <a href="https://tryfolio.io"><b>Get Folio for Android</b></a>
+  <a href="https://tryfolio.io"><b>Get Folio for Android</b></a> <sub>(Solana dApp Store listing coming soon)</sub>
   &nbsp;·&nbsp;
   <a href="https://x.com/try_folio"><b>Follow @try_folio</b></a>
 </p>
 
 <p align="center">
-  <a href="https://tryfolio.io"><img alt="Solana dApp Store" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-solana-dapp-store.svg"></a>
+  <img alt="Solana dApp Store: coming soon" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-solana-dapp-store.svg" title="Coming soon">
   <a href="https://solanamobile.com"><img alt="Solana Seeker" src="https://raw.githubusercontent.com/ECS-Folio/.github/main/profile/assets/badge-solana-seeker.svg"></a>
   <a href="https://tryfolio.io"><img alt="Android" src="https://img.shields.io/badge/Android-204C3B?logo=android&amp;logoColor=F7F8F4"></a>
   <a href="https://solana.com"><img alt="Solana" src="https://img.shields.io/badge/Solana-204C3B?logo=solana&amp;logoColor=F7F8F4"></a>
